@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi==0.109.2
 uvicorn[standard]==0.27.1
 httpx==0.26.0
@@ -5,3 +6,11 @@ python-dotenv==1.0.1
 slowapi==0.1.9
 groq==0.18.0
 pydantic==2.6.1
+=======
+fastapi
+uvicorn
+requests
+python-dotenv
+sentence-transformers
+scikit-learn
+>>>>>>> cd04a63fde2c249d2cace74e65bccffe0da5c921

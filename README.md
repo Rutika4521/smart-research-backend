@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Research System - Backend
 
 This is the backend for the **Smart Research System**, built using FastAPI and Python. It acts as the bridge between the academic literature database (IEEE Xplore) and a Large Language Model (Groq / Llama-3.3-70b-versatile).
@@ -58,3 +59,6 @@ This is the backend for the **Smart Research System**, built using FastAPI and P
 FastAPI auto-generates interactive API documentation. Once the server is running, visit:
 - **Swagger UI:** `http://localhost:8000/docs`
 - **ReDoc:** `http://localhost:8000/redoc`
+=======
+# smart-research-backend
+>>>>>>> cd04a63fde2c249d2cace74e65bccffe0da5c921
